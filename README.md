@@ -35,4 +35,4 @@ Siga os passos abaixo para configurar e executar a aplicação em sua máquina l
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/SeuUsuario/NomeDoSeuRepositorio.git](https://github.com/SeuUsuario/NomeDoSeuRepositorio.git)
+git clone https://github.com/Mikael-Kobama/auth-api.git
